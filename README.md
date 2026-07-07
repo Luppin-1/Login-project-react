@@ -1,4 +1,4 @@
-# 🔐 React Login App
+# React Login App 🔐
 
 A simple login application built with React, Vite, and Tailwind CSS.
 
